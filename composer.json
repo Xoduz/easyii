@@ -1,5 +1,5 @@
 {
-    "name": "attybean/easyii",
+    "name": "byggmann/easyii",
     "version": "dev-master",
     "description": "Easy CMS (fork) based on Yii2 Framework - Development package",
     "keywords": ["easyii"],
@@ -9,13 +9,12 @@
     "minimum-stability": "dev",
     "support": {
         "wiki": "http://easyiicms.com/docs",
-        "source": "https://github.com/attybean/easyii.git",
-        "issues": "https://github.com/attybean/easyii/issues"
+        "source": "https://github.com/byggmann/easyii.git",
+        "issues": "https://github.com/byggmann/easyii/issues"
     },
     "authors": [
         {
-            "name": "Attybean",
-            "email": "attybean@gmail.com",
+            "name": "byggmann",
             "role" : "Developer"
         }
     ],
