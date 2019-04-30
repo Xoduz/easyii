@@ -51,7 +51,7 @@ class AdminModule extends \yii\base\Module implements BootstrapInterface
 
     public function bootstrap($app)
     {
-        Yii::setAlias('easyii', '@vendor/attybean/easyii');
+        Yii::setAlias('easyii', '@vendor/byggmann/easyii');
 
         // Disable toolbar
         /*if(!$app->user->isGuest && strpos($app->request->pathInfo, 'admin') === false) {
